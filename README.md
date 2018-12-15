@@ -1,1 +1,1 @@
-# demo-server
+# Wizy JavaScript Skeleton 
